@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Une Promesse Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
+| **Get License** | [Secure Licensing Rights for Une Promesse Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans les reflets de la ville, je vois ton ombre qui danse
+> Tension dans l'air, mon amour, on tente notre chance
+> Ton parfum de luxe, ton regard qui me condamne
+> Viens plus près de moi, laisse-moi allumer la flamme
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
