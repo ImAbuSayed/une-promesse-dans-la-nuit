@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Promesse Dans La Nuit
+
+This log tracks the cryptographic history and versioning for the song **Une Promesse Dans La Nuit** (une-promesse-dans-la-nuit).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:10:13.064552 | `v1` | `8a846cedd323e0dd135fcbc98ea671e7982cc68749af812ce8f3db4b066837ea` | `1af78b05f8bffabc2c37e2776caf887e6bf84ac4de9b8241d398726069a7df1b` | `2026-06-26_une-promesse-dans-la-nuit-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

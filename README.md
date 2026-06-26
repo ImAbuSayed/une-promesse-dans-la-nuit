@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Une Promesse Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
+| **Get License** | [Obtain a Music License for Une Promesse Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-promesse-dans-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8a846cedd323e0dd135fcbc98ea671e7982cc68749af812ce8f3db4b066837ea` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
